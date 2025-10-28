@@ -1,0 +1,319 @@
+(footprint "USB4125GFA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "USB4125-GF-A-6")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "30251902-1500-48af-9dfd-d97dd789a501")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "USB4125GFA"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "379beb93-cb7a-41b3-89ee-45b6f6d91bc8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9906355-ccfd-482d-8c48-81c72012ea2a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a24745c4-3eb5-4ce9-a7cf-f3d8da42d661")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.47 -1.498)
+		(end -4.47 -0.098)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c80f66d1-7101-445a-8918-74f3dbefc7b0")
+	)
+	(fp_line
+		(start -4.47 2.502)
+		(end -4.47 3.702)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "df4038a5-3aea-44b2-b564-2ad75efb02a4")
+	)
+	(fp_line
+		(start -4.47 3.702)
+		(end 4.47 3.702)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93b61229-434a-4ffe-a20b-1930d84295c4")
+	)
+	(fp_line
+		(start -0.5 -4.098)
+		(end -0.5 -4.098)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d7f21b7a-43dd-4bc4-b903-f7ffa24b1dd1")
+	)
+	(fp_line
+		(start -0.5 -3.998)
+		(end -0.5 -3.998)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e61e9f5-0ee6-48bd-8e89-a8964594aea2")
+	)
+	(fp_line
+		(start 4.47 -0.098)
+		(end 4.47 -1.498)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58a57b67-8a0a-4e46-978f-08076f924760")
+	)
+	(fp_line
+		(start 4.47 3.702)
+		(end 4.47 2.502)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7394183b-a472-41cd-be89-63f8793782e0")
+	)
+	(fp_arc
+		(start -0.5 -4.098)
+		(mid -0.45 -4.048)
+		(end -0.5 -3.998)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f931939b-1c5b-4a26-827f-4820f5cbcbea")
+	)
+	(fp_arc
+		(start -0.5 -3.997)
+		(mid -0.5505 -4.0475)
+		(end -0.5 -4.098)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "799ae80e-a736-4308-b620-54f04827d802")
+	)
+	(fp_line
+		(start -6.325 -4.703)
+		(end 6.325 -4.703)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4b50b4f2-6acd-4b3a-a441-f9568bed34cb")
+	)
+	(fp_line
+		(start -6.325 4.703)
+		(end -6.325 -4.703)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2730b639-abae-4827-845f-a1e1978db3fe")
+	)
+	(fp_line
+		(start 6.325 -4.703)
+		(end 6.325 4.703)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e9d8d651-cba1-4881-ac5a-5e0526937738")
+	)
+	(fp_line
+		(start 6.325 4.703)
+		(end -6.325 4.703)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "21f67427-6c4c-4fad-8bec-b78dd13a7c1e")
+	)
+	(fp_line
+		(start -4.47 -3.098)
+		(end -4.47 3.702)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ef7168a-cfb5-4edc-8fbc-d34f2c023cf9")
+	)
+	(fp_line
+		(start -4.47 3.702)
+		(end 4.47 3.702)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "53df198d-c34a-4ed0-a73d-b67a79213295")
+	)
+	(fp_line
+		(start 4.47 -3.098)
+		(end -4.47 -3.098)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "16a18540-a965-4ac5-b04e-145ab4d59960")
+	)
+	(fp_line
+		(start 4.47 3.702)
+		(end 4.47 -3.098)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4bd8ed20-3d36-454d-a076-49b96eb5246f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a5b95881-7150-406a-b7c2-6cb98c6a729f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "A5" smd rect
+		(at -0.5 -2.778)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5f2a1bc7-7231-4689-bde4-9093376b1a53")
+	)
+	(pad "A9" smd rect
+		(at 1.52 -2.778)
+		(size 0.76 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "16e901ed-57ef-4069-831a-89b40411385d")
+	)
+	(pad "A12" smd rect
+		(at 2.75 -2.778)
+		(size 0.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a623fb4f-919a-49e4-bcfb-c1d4077e8d12")
+	)
+	(pad "B5" smd rect
+		(at 0.5 -2.778)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5d108227-43a1-40dd-8fda-fa892de5a8ed")
+	)
+	(pad "B9" smd rect
+		(at -1.52 -2.778)
+		(size 0.76 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "865f02e1-0a2b-4f86-87ae-93322a734519")
+	)
+	(pad "B12" smd rect
+		(at -2.75 -2.778)
+		(size 0.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4ea66d4d-df46-426c-80e4-2cb9a5fad976")
+	)
+	(pad "MH1" thru_hole circle
+		(at 4.32 -2.698)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c3eaf224-16d7-4a46-960c-4f2413fbf461")
+	)
+	(pad "MH2" thru_hole circle
+		(at 4.32 1.102)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "47074c53-6165-427e-b39a-aac10208d8d0")
+	)
+	(pad "MH3" thru_hole circle
+		(at -4.32 1.102)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f90b7044-5c70-47f6-8869-5ae2cac1413e")
+	)
+	(pad "MH4" thru_hole circle
+		(at -4.32 -2.698)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "22fda596-afdb-4335-a91e-835c423deee0")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3D_models/USB4125-GF-A.stp"
+		(offset
+			(xyz 0 -3.449999996 -0.02999999888)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
