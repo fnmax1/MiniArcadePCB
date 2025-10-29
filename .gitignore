@@ -1,0 +1,7 @@
+# Ignore Fabrication outputs
+*.gbr
+*.drl
+*.pos
+*.csv
+*.pdf
+
