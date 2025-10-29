@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "9a67b721-40aa-4df3-a92f-685c90607ac7")
 	(paper "A4")
+	(title_block
+		(title "MiniArcadeController")
+		(date "2025-10-29")
+		(rev "A")
+		(company "Felix Neumann")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x05_Pin"
 			(pin_names
