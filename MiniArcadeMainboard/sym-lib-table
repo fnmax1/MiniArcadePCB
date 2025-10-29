@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MexleComponents")(type "KiCad")(uri "C:/Users/fneum/Documents/KiCad/9.0/symbols/Mexle_Components/MEXLE_Components.kicad_sym")(options "")(descr ""))
-  (lib (name "MainBoard")(type "KiCad")(uri "${KIPRJMOD}/lib/Symbol/MainBoard.kicad_sym")(options "")(descr ""))
-)
