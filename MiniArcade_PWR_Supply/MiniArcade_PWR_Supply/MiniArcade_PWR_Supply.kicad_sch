@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "b24130ec-feff-43b3-8e94-ceec66e9d404")
 	(paper "A4")
+	(title_block
+		(title "MiniArcadePowerSupply")
+		(date "2025-10-29")
+		(rev "A")
+		(company "Felix Neumann")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names

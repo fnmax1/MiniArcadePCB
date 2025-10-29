@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "05ad7677-8bf5-470f-850e-ef78977ca036")
 	(paper "A4")
+	(title_block
+		(title "MiniArcadeMainboard")
+		(date "2025-10-29")
+		(rev "A")
+		(company "Felix Neumann")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM321"
 			(pin_names
