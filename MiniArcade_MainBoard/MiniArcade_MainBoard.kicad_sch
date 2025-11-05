@@ -4907,6 +4907,18 @@
 		)
 		(uuid "0893c78a-fe54-4218-aa29-19af2bb81af8")
 	)
+	(text "LCD VDD & VDDI \nliegen in MPLAB noch \nauf PB00 & PB01"
+		(exclude_from_sim no)
+		(at 256.032 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 25 41 1)
+			)
+			(justify left)
+		)
+		(uuid "09b89835-4857-4def-91ba-a2bbe717877d")
+	)
 	(text "SAM JTAG Header:\n(Cortex-M debug connector)"
 		(exclude_from_sim no)
 		(at 103.632 89.662 0)
@@ -4960,6 +4972,17 @@
 			(justify left bottom)
 		)
 		(uuid "4d8b60e3-5ba5-420c-b0ef-e3d913615d7c")
+	)
+	(text "<-LCD_VDD"
+		(exclude_from_sim no)
+		(at 258.572 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 25 41 1)
+			)
+		)
+		(uuid "5d5cdf27-7ea0-43c8-928f-af9a487cc297")
 	)
 	(text "Microcontroller:\n(ATSAMD21J18A-A)"
 		(exclude_from_sim no)
@@ -5034,6 +5057,17 @@
 			(justify left)
 		)
 		(uuid "cbcfc719-8725-41aa-8569-a51dce17f0da")
+	)
+	(text "<-LCD_VDDI\n\n"
+		(exclude_from_sim no)
+		(at 258.826 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 25 41 1)
+			)
+		)
+		(uuid "d04856a3-2798-4d96-b54a-3215d49e8711")
 	)
 	(text "C1 & R3 & R5\nclose to device\n"
 		(exclude_from_sim no)
