@@ -2814,16 +2814,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 54.61) (xy 26.67 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b059288-a4ff-4e29-b91f-7279ffd7a1dc")
-	)
-	(wire
-		(pts
 			(xy 132.08 39.37) (xy 132.08 36.83)
 		)
 		(stroke
@@ -2861,6 +2851,16 @@
 			(type default)
 		)
 		(uuid "454a787b-7850-48a0-a089-c3762d014bdd")
+	)
+	(wire
+		(pts
+			(xy 24.13 54.61) (xy 26.67 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d6f1233-f99a-449e-b7af-41255ea2a137")
 	)
 	(wire
 		(pts
@@ -3358,28 +3358,6 @@
 			)
 		)
 	)
-	(global_label "GND"
-		(shape input)
-		(at 24.13 57.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5ea55577-3892-4833-abe2-f5b5ab89a416")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.2743 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "3V5"
 		(shape input)
 		(at 220.98 30.48 180)
@@ -3534,6 +3512,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 24.13 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "efc6ce17-381e-41f5-a3e6-8e73197a5601")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.2743 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "3V3"
 		(shape input)
 		(at 270.51 30.48 0)
@@ -3558,7 +3558,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 24.13 54.61 180)
+		(at 24.13 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3568,7 +3568,7 @@
 		)
 		(uuid "fa694042-04eb-4a14-b0af-875a3363e9bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.6372 54.61 0)
+			(at 17.6372 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4257,7 +4257,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
 			(at 31.75 57.15 0)
 			(effects
 				(font
@@ -4928,7 +4928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
 			(at 60.96 57.15 0)
 			(effects
 				(font
