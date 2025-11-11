@@ -1,4 +1,4 @@
-26745312231346232
+26747075094497321
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70587,6 +70587,13 @@ Connector
 0
 10
 10
+MainBoard
+ERTFT144
+
+
+0
+0
+0
 MainBoard
 EVPAA
 EVPAA MEXLE-Taster

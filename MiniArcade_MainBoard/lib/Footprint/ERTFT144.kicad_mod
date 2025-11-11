@@ -1,0 +1,140 @@
+(footprint "ERTFT144"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "ER-TFT1.44-1"
+		(at 15 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "97339952-8c80-4b55-9b0e-809798dde86d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ERTFT144"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3fa05051-deb9-4768-97e6-e2bc77375a3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53ebaa9c-0a89-4c90-ac46-b4dc69c3db6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ddd276b-84f8-4893-85a0-16c4e7fb37ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start 0 0)
+		(end 30.6 34.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d1508e19-51da-4513-8de9-9e7a78422226")
+	)
+	(fp_rect
+		(start 0 1)
+		(end 30.6 6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "21c3fa5d-c0c2-41be-8bcb-72cfe39ed915")
+	)
+	(fp_rect
+		(start 3.3 34.8)
+		(end 27.3 49.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "84745eee-5483-4dca-840f-eb3f59f6bc39")
+	)
+	(fp_circle
+		(center 1 21.8)
+		(end 1.5 21.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "f09b9170-cc26-4bff-b6b0-000b450b53a7")
+	)
+	(fp_circle
+		(center 29.6 7.8)
+		(end 30.1 7.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "548ebdf0-3f3a-48ee-80c3-1c56f7385649")
+	)
+	(fp_text user "double adhesive tape"
+		(at 7 4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "91da2618-ccb8-48a4-9fef-bf4d398a0054")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "FPC-Connector"
+		(at 10 42.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ee9466c0-bf34-4685-ba8c-31096842a55d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(embedded_fonts no)
+)
