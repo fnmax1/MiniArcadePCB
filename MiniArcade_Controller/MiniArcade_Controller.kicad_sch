@@ -1794,10 +1794,10 @@
 			)
 		)
 		(pin "4"
-			(uuid "792fad0e-fc75-4255-a2a3-02a34608dee6")
+			(uuid "792fad0e-fc75-4255-a2a3-02a34608dee7")
 		)
 		(pin "3"
-			(uuid "c4df9cbf-8072-498d-84ef-af76704e79ed")
+			(uuid "c4df9cbf-8072-498d-84ef-af76704e79ee")
 		)
 		(pin "1"
 			(uuid "b8a9c88d-cc3b-45b5-959b-7fbb34f5319d")
@@ -1933,10 +1933,10 @@
 			)
 		)
 		(pin "4"
-			(uuid "792fad0e-fc75-4255-a2a3-02a34608dee6")
+			(uuid "792fad0e-fc75-4255-a2a3-02a34608dee8")
 		)
 		(pin "3"
-			(uuid "c4df9cbf-8072-498d-84ef-af76704e79ed")
+			(uuid "c4df9cbf-8072-498d-84ef-af76704e79ef")
 		)
 		(pin "1"
 			(uuid "95e557b8-8fdb-4061-aa4d-05de0011706d")
@@ -1978,7 +1978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 82.55 67.31 0)
 			(effects
 				(font
@@ -2120,7 +2120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 82.55 31.75 0)
 			(effects
 				(font
@@ -2291,10 +2291,10 @@
 			)
 		)
 		(pin "4"
-			(uuid "792fad0e-fc75-4255-a2a3-02a34608dee6")
+			(uuid "792fad0e-fc75-4255-a2a3-02a34608dee9")
 		)
 		(pin "3"
-			(uuid "c4df9cbf-8072-498d-84ef-af76704e79ed")
+			(uuid "c4df9cbf-8072-498d-84ef-af76704e79f0")
 		)
 		(pin "1"
 			(uuid "6751d002-2a4d-48e6-88f1-2762e4d4fb46")
