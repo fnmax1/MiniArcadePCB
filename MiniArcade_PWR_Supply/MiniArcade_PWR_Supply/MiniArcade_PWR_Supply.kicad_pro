@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../CAD/MiniArcade_PWR_Supply.step",
       "svg": "",
       "vrml": ""
     },

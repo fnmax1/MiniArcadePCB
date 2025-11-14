@@ -10965,6 +10965,30 @@
 		(layer "Edge.Cuts")
 		(uuid "eea1e28b-ebe1-4fe5-8b4a-c22fde7bcc3c")
 	)
+	(gr_text "1"
+		(at 113 115.75 0)
+		(layer "F.SilkS")
+		(uuid "0da7f136-69c3-4794-b21e-a99741434254")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "6\n"
+		(at 166 118.25 0)
+		(layer "F.SilkS")
+		(uuid "1051af88-00a4-49e0-aec9-fe7e637954ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Author: Felix Neumann\nDate:   11/11/2025\n"
 		(at 142.75 101.75 0)
 		(layer "F.SilkS")
@@ -10974,6 +10998,30 @@
 				(size 1.5 1.5)
 				(thickness 0.3)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 166 105.5 0)
+		(layer "F.SilkS")
+		(uuid "522c5618-0654-4ce6-b6c2-87dd21f93413")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5"
+		(at 113 105.5 0)
+		(layer "F.SilkS")
+		(uuid "baf57d4d-274d-4879-b47a-71adf61ea116")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
