@@ -305,7 +305,7 @@
 		(uuid "22fda596-afdb-4335-a91e-835c423deee0")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/3D_models/USB4125-GF-A.stp"
+	(model "C:/GitHub/MiniArcade/MiniArcadePCB/MiniArcade_Right_Sidepanel/lib/3D-Models/USB4125-GF-A.stp"
 		(offset
 			(xyz 0 -3.449999996 -0.02999999888)
 		)

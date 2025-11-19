@@ -193,15 +193,15 @@
 		(uuid "aba5ad74-0a50-4527-98e2-7e9909ce4db9")
 	)
 	(pad "1" smd rect
-		(at 1.269997 -7.499998)
-		(size 1.019994 0.999996)
+		(at 1.269996 -7.4)
+		(size 1.019992 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "3557e1d4-0de2-4c03-b506-8bbe1c720af8")
 	)
 	(pad "2" smd rect
-		(at -1.27 -7.499999)
-		(size 1.02 0.999998)
+		(at -1.27 -7.4)
+		(size 1.02 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "e58109c9-1a9a-4f69-885f-a36dbe14979b")
@@ -209,7 +209,7 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/lib/3DModels/M20-7910242R.step"
 		(offset
-			(xyz 0 4.5 1.3)
+			(xyz 0 4.2 1.3)
 		)
 		(scale
 			(xyz 1 1 1)

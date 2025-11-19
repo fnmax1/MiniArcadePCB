@@ -227,51 +227,51 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -6.35 5.25)
+		(at -6.35 5.3)
 		(size 1.02 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "c9cb9d0b-a632-4237-8d8b-173d586d7ece")
 	)
 	(pad "2" smd rect
-		(at -3.81 5.25)
+		(at -3.81 5.3)
 		(size 1.02 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "c5254ef0-387f-40dc-be48-2f757af8ed78")
 	)
 	(pad "3" smd rect
-		(at -1.27 5.25)
+		(at -1.27 5.3)
 		(size 1.02 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f503a99b-ff1c-4668-8a73-9193536922c9")
 	)
 	(pad "4" smd rect
-		(at 1.27 5.25)
+		(at 1.27 5.3)
 		(size 1.02 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7a2682fa-bf81-4e2f-b4e3-0d316b17e717")
 	)
 	(pad "5" smd rect
-		(at 3.81 5.25)
-		(size 1.02 2)
+		(at 3.809997 5.3)
+		(size 1.019994 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "ec1bcc8f-fd9f-45b6-ba67-0de65fcff90d")
 	)
 	(pad "6" smd rect
-		(at 6.35 5.25)
-		(size 1.02 2)
+		(at 6.349997 5.3)
+		(size 1.019994 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "23d948fc-ed41-4efb-a431-6f44651be452")
 	)
 	(embedded_fonts no)
-	(model "M20-7910642R.stp"
+	(model "${KIPRJMOD}/lib/3DModels/M20-7910642R.stp"
 		(offset
-			(xyz 0 4.05000013 0)
+			(xyz 0 2.05 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 90 0)
+			(xyz -0 90 -0)
 		)
 	)
 )

@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/MiniArcade_Left_Sidepanel.step",
       "svg": "",
       "vrml": ""
     },

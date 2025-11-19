@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MiniArcade_Right_Side_Panel")(type "KiCad")(uri "${KIPRJMOD}/lib/Footprints/MiniArcade_Right_Side_Panel.pretty")(options "")(descr ""))
+)
