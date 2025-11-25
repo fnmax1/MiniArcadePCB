@@ -2001,6 +2001,17 @@
 			(uuid "97b0843a-9c4f-4007-b63d-f7d0c2d6dba4")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/lib/3D_models/Joystick.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 		(layer "B.Cu")

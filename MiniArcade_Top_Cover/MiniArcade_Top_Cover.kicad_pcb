@@ -78,6 +78,134 @@
 		)
 	)
 	(net 0 "")
+	(footprint ""
+		(layer "B.Cu")
+		(uuid "8dce9d02-061e-43e9-acff-ce66764373dd")
+		(at 169.8 55.5 180)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(uuid "2ce55360-cd2b-4431-b807-3ababa749119")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "5cacf057-9e75-4956-ab01-3cbfa07acfa3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8b816e2a-65b2-4746-84c3-abb3f1929c51")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9a39bd21-f65c-454d-96de-71d3d66e9d05")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" smd rect
+			(at 0 0)
+			(size 3 8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(pinfunction "6")
+			(pintype "passive")
+			(uuid "efd3f754-2021-4d6c-b32b-6e6c7a1257a0")
+		)
+		(embedded_fonts no)
+	)
+	(footprint ""
+		(layer "B.Cu")
+		(uuid "bacc119c-36f7-4ee5-b163-f63cdb84dbdf")
+		(at 113.2 55.5 180)
+		(property "Reference" ""
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(uuid "d8aa9937-a490-4508-96ea-49d25d77804e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "7f0309e1-dbfd-4383-891c-e482afb423e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "46a7b98c-ca9b-4fa5-8724-9b9ff18cb5de")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0b49ffd-4196-435c-8693-798532e1b29f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" smd rect
+			(at 0 0)
+			(size 3 8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(pinfunction "6")
+			(pintype "passive")
+			(uuid "e156ae0f-cf80-4b5c-8424-ca8d3f914da0")
+		)
+		(embedded_fonts no)
+	)
 	(gr_line
 		(start 173 51.5)
 		(end 110 51.5)

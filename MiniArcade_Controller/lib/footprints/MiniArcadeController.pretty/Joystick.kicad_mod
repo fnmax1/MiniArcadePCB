@@ -503,4 +503,15 @@
 		(uuid "911632a0-e306-415d-a0eb-d41d48715b7e")
 	)
 	(embedded_fonts no)
+	(model "C:/GitHub/MiniArcade/MiniArcadePCB/CAD/Joystick.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
 )
