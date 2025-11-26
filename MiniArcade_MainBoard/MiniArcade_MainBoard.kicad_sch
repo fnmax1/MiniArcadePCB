@@ -5935,17 +5935,6 @@
 		)
 		(uuid "64a47766-ede1-4201-a148-e00bddee1fa8")
 	)
-	(text "Pins 1 bis 4 \nfür Touchpannel, garnicht vorhanden \nbei der LCD Variante.\nAuf GND oder nicht verbunden?\n"
-		(exclude_from_sim no)
-		(at 79.502 28.702 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 21 54 1)
-			)
-		)
-		(uuid "6b2a49e3-9f01-4c87-94ac-874d3122ac04")
-	)
 	(text "Pin Header:\n"
 		(exclude_from_sim no)
 		(at 63.5 116.586 0)

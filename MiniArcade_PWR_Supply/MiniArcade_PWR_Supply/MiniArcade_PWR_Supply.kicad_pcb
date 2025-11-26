@@ -7359,7 +7359,7 @@
 		(layer "F.Cu")
 		(uuid "bb479589-a5b5-4509-aac0-f23cbcb58bd0")
 		(hatch edge 0.5)
-		(priority 1)
+		(priority 2)
 		(connect_pads
 			(clearance 0.3)
 		)
