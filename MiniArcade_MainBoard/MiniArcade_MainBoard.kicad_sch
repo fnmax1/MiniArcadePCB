@@ -5892,17 +5892,6 @@
 		)
 		(uuid "3cc691c2-90ba-4eb6-ba7c-6228a4207e1d")
 	)
-	(text "LED Pin noch\nauf SAMD21 legen\n"
-		(exclude_from_sim no)
-		(at 73.406 167.386 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 38 35 1)
-			)
-		)
-		(uuid "425c33bc-7175-42fa-bd01-f34705b09ef5")
-	)
 	(text "Reset Button:\n\n\n"
 		(exclude_from_sim no)
 		(at 102.87 121.412 0)
@@ -14036,7 +14025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 91.44 170.1799 0)
 			(effects
 				(font
