@@ -88,6 +88,8 @@
       9
     ],
     "col_widths": [
+      9,
+      8,
       7,
       7,
       7,
@@ -95,9 +97,7 @@
       7,
       7,
       7,
-      7,
-      7,
-      150
+      147
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
